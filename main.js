@@ -222,3 +222,8 @@ function paddleInCanvas(){
   
 }
 
+function restart()
+{
+  pcscore = 0;
+  loop();
+}
